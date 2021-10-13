@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JL APP</string>
+    <string name="hola_mundo">MY APP</string>
+    <string name="clickme">ClickMe</string>
+</resources>
